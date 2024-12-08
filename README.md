@@ -95,7 +95,7 @@ Find API documentation and architecture details in the `docs/` directory:
 
 ## 📞 Support
 
-For questions or issues, please open an issue in this repository or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or issues, please open an issue in this repository or contact [contact@therahulyele.com](mailto:contact@therahulyele.com).
 
 ---
 
@@ -108,6 +108,14 @@ We welcome contributions! Please check out the [CONTRIBUTING.md](CONTRIBUTING.md
 ## 🛡️ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 🌐 Connect with Me
+
+- **Instagram**: [@therahulyele](https://instagram.com/therahulyele)
+- **X**: [@therahulyele](https://x.com/therahulyele)
+- **LinkedIn**: [@therahulyele](https://linkedin.com/in/therahulyele)
 
 ---
 
