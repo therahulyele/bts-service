@@ -105,12 +105,6 @@ We welcome contributions! Please check out the [CONTRIBUTING.md](CONTRIBUTING.md
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 🌐 Connect with Me
 
 - **Instagram**: [@therahulyele](https://instagram.com/therahulyele)
